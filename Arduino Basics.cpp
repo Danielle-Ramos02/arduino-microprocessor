@@ -1,3 +1,5 @@
+//This is the basics of Arduino
+
 int led1 = 13;
 int led2 = 12;
 int led3 = 11;
